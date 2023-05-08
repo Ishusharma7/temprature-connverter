@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    margin-top: 10% !important;
+}
+#second{
+    margin-left: 50%;
+}
+#celsius{
+    font-weight: bolder;
+    font-size: larger;
+}
+#farhenit{
+    font-weight: bolder;
+    font-size: larger;
+}
+h6{
+    font-weight: bold !important;
+}
